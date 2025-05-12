@@ -2,7 +2,7 @@
 
 Links are created using the **`<a>`** element. Users can click on anything between the opening **`<a>`** tag and the closing **`</a>`** tag.
 
-The value of the **`href`** attribute is the page that you want people to go to when they click on the link.https://github.com/olem-diga/HTML/blob/main/4.%20Links/8.%20Linking%20To%20A%20Specific%20Part%20Of%20Another%20Page.md
+The value of the **`href`** attribute is the page that you want people to go to when they click on the link.
 
 ---
 - *Example:*
